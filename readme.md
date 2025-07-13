@@ -18,7 +18,7 @@ This is a simple Movie Recommendation System built using **Streamlit** and **K-M
 ### 1. 📥 Download Project
 Clone the repository or download it as a ZIP:
 ```bash
-git clone https://github.com/your-username/movie-recommendation-app.git
+git clone https://github.com/Shoaib1-coder/Movie-Recommendation.git
 cd movie-recommendation-app
 ```
 
